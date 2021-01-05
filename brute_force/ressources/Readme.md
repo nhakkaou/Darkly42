@@ -1,4 +1,4 @@
-#How I found it
+# How I found it
 
 This is the first and easiest method to find website admin panel or admin login page. You can add some words after the URL.Like
 www.site.com/admin
