@@ -11,5 +11,7 @@ www.site.com/wp-login.php
 
 www.site.com/admin.php
 
+### Result
+
 So I found /admin and i used brute forcce in this path and i get
 Username : Admin Password: shadow
