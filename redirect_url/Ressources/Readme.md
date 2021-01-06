@@ -1,6 +1,6 @@
 # How I found it
 
-there is 3 icons in the footer if we change it and we get the falge
+there is 3 icons in the footer if we change it and we get the flag
 
 ### Solution
 
