@@ -6,3 +6,4 @@ We must check if this value between 1 and 10 // Survey
 You have to take everything sanitize filter_var the form returns. //feedback
 protecting yourself from brutforce, with call limits per minute on a login// brutforce
 prepare your queries // injection
+ Mzl Upload image/ Survey and object
