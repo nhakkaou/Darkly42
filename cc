@@ -1,1 +1,0 @@
--9 UNION select  coloms from INFORMATION_SCHEMA.TABLES
