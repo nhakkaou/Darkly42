@@ -4,4 +4,4 @@ in page=survey there is voting we chose between 1 and 10 we can change this valu
 
 ### Solution
 
-You have to take everything sanitize filter_var the form returns. //feedback
+we must check in backend if the value between 1 and 10
