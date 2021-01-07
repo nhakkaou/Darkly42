@@ -1,9 +1,6 @@
-### Solution
+## Objectifs
 
-you must add a token in these params. // refer
-htaccess on the folder where the images are uploaded with a rule that allows files of type images // upload img
-We must check if this value between 1 and 10 // Survey
-You have to take everything sanitize filter_var the form returns. //feedback
-protecting yourself from brutforce, with call limits per minute on a login// brutforce
-prepare your queries // injection
- Mzl Upload image/ Survey and object
+Ce projet a pour but de vous faire découvrir la sécurité en informatique dans le domaine du web.
+Vous allez pouvoir découvrir OWASP, qui est, ni plus ni moins, le plus gros projet de
+sécurité web à ce jour.
+Vous allez aussi comprendre ce que beaucoup de frameworks font de manière automatique et complètement transparente pour vous
