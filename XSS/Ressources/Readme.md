@@ -1,8 +1,6 @@
 # How I found it
 
-we Use a script in the coment in feedback
-and we can get the flag by XXE by
-`<somexml><message>&xee</message></somexml>`
+we found in the console function checkForm isn't defined so we create this function always return TRUE and the we use some script in the comment below 
 
 ### Solution
 
